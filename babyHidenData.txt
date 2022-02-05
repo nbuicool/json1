@@ -1,5 +1,5 @@
 //appKey IronSource
-AppKeyBegin##{12568373d}##LastAppKey
+AppKeyBegin##{13569a1c1}##LastAppKey
 //Enable ads :if you want show ads write true 
 EnableAdsBegin##{false}##LastEnableAds
 //if you want to share game you should past url of the game in story
